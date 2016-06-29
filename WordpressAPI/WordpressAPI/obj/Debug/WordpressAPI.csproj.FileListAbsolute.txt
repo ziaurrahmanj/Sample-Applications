@@ -1,0 +1,13 @@
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\bin\Debug\WordpressAPI.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\bin\Debug\WordpressAPI.pdb
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\bin\Debug\JoeBlogs.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\obj\Debug\WordpressAPI.csprojResolveAssemblyReference.cache
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\obj\Debug\WordpressAPI.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\QAProj\WordpressAPI\obj\Debug\WordpressAPI.pdb
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\WordpressAPI\WordpressAPI\bin\Debug\WordpressAPI.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\WordpressAPI\WordpressAPI\bin\Debug\WordpressAPI.pdb
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\WordpressAPI\WordpressAPI\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\WordpressAPI\WordpressAPI\bin\Debug\JoeBlogs.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\WordpressAPI\WordpressAPI\obj\Debug\WordpressAPI.dll
+C:\Users\ziaurrahman.j\Documents\Visual Studio 2015\Projects\WordpressAPI\WordpressAPI\obj\Debug\WordpressAPI.pdb

@@ -1,0 +1,6 @@
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\PrintTriangle\PrintTriangle\bin\Debug\PrintTriangle.exe.config
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\PrintTriangle\PrintTriangle\bin\Debug\PrintTriangle.exe
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\PrintTriangle\PrintTriangle\bin\Debug\PrintTriangle.pdb
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\PrintTriangle\PrintTriangle\obj\Debug\PrintTriangle.csprojResolveAssemblyReference.cache
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\PrintTriangle\PrintTriangle\obj\Debug\PrintTriangle.exe
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\PrintTriangle\PrintTriangle\obj\Debug\PrintTriangle.pdb

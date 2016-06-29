@@ -1,0 +1,6 @@
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\DebuggingTutorial\DebuggingTutorial\bin\Debug\DebuggingTutorial.exe.config
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\DebuggingTutorial\DebuggingTutorial\bin\Debug\DebuggingTutorial.exe
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\DebuggingTutorial\DebuggingTutorial\bin\Debug\DebuggingTutorial.pdb
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\DebuggingTutorial\DebuggingTutorial\obj\Debug\DebuggingTutorial.csprojResolveAssemblyReference.cache
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\DebuggingTutorial\DebuggingTutorial\obj\Debug\DebuggingTutorial.exe
+c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\DebuggingTutorial\DebuggingTutorial\obj\Debug\DebuggingTutorial.pdb

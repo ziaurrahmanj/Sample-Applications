@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QAProj", "QAProj\QAProj.csproj", "{C0DB5078-1CDF-4AC2-BA95-D92862519655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkInsert", "BulkInsert\BulkInsert.csproj", "{90E834A2-8591-4AB5-B6F1-53A61C432585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordpressAPI", "WordpressAPI\WordpressAPI.csproj", "{A7507EA5-CC61-4F8B-84DF-E9CA575C47B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Wordpress", "Wordpress", "{DB170BFB-799E-4D11-9D01-09659B8F058D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0DB5078-1CDF-4AC2-BA95-D92862519655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DB5078-1CDF-4AC2-BA95-D92862519655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DB5078-1CDF-4AC2-BA95-D92862519655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DB5078-1CDF-4AC2-BA95-D92862519655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E834A2-8591-4AB5-B6F1-53A61C432585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E834A2-8591-4AB5-B6F1-53A61C432585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E834A2-8591-4AB5-B6F1-53A61C432585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E834A2-8591-4AB5-B6F1-53A61C432585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7507EA5-CC61-4F8B-84DF-E9CA575C47B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7507EA5-CC61-4F8B-84DF-E9CA575C47B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7507EA5-CC61-4F8B-84DF-E9CA575C47B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7507EA5-CC61-4F8B-84DF-E9CA575C47B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0DB5078-1CDF-4AC2-BA95-D92862519655} = {DB170BFB-799E-4D11-9D01-09659B8F058D}
+		{90E834A2-8591-4AB5-B6F1-53A61C432585} = {DB170BFB-799E-4D11-9D01-09659B8F058D}
+		{A7507EA5-CC61-4F8B-84DF-E9CA575C47B9} = {DB170BFB-799E-4D11-9D01-09659B8F058D}
+	EndGlobalSection
+EndGlobal
