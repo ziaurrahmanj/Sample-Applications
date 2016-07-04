@@ -1,0 +1,4 @@
+ReaderApp.MainActivity, ReaderApp;md5d3cb54314aa870d504ab08030baec013.MainActivity
+ReaderApp.MainActivity, ReaderApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d3cb54314aa870d504ab08030baec013.MainActivity
+ReaderApp.MainActivity;md5d3cb54314aa870d504ab08030baec013.MainActivity
+readerapp.MainActivity;md5d3cb54314aa870d504ab08030baec013.MainActivity

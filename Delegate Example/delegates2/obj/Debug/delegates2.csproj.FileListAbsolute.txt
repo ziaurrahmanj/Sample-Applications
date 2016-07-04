@@ -1,0 +1,5 @@
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\delegates2\bin\Debug\delegates2.exe.config
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\delegates2\bin\Debug\delegates2.exe
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\delegates2\bin\Debug\delegates2.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\delegates2\obj\Debug\delegates2.exe
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\delegates2\obj\Debug\delegates2.pdb

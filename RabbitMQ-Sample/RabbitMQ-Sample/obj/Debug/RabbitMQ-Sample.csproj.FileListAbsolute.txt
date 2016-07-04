@@ -1,0 +1,8 @@
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\bin\Debug\RabbitMQ-Sample.exe.config
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\bin\Debug\RabbitMQ-Sample.exe
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\bin\Debug\RabbitMQ-Sample.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\bin\Debug\RabbitMQ.Client.dll
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\bin\Debug\RabbitMQ.Client.xml
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\obj\Debug\RabbitMQ-Sample.csprojResolveAssemblyReference.cache
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\obj\Debug\RabbitMQ-Sample.exe
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\RabbitMQ-Sample\RabbitMQ-Sample\obj\Debug\RabbitMQ-Sample.pdb
