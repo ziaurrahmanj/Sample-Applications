@@ -55,7 +55,7 @@ namespace BulkInsert
                     {
                         Title = parts2[0].Trim(),
                         Body = parts2[1].Trim(),
-                        Tags = "Security"
+                        Tags = "NTT Data Interview Questions"
 
                     };
 

@@ -4,3 +4,6 @@ c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\Delegate Example\De
 c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\Delegate Example\Delegate Example\obj\Debug\Delegate Example.csprojResolveAssemblyReference.cache
 c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\Delegate Example\Delegate Example\obj\Debug\Delegate Example.exe
 c:\users\ziaurrahman.j\documents\visual studio 2015\Projects\Delegate Example\Delegate Example\obj\Debug\Delegate Example.pdb
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\Delegate Example\bin\Debug\Delegate Example.exe.config
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\Delegate Example\obj\Debug\Delegate Example.exe
+C:\Users\ziaurrahman.j\Documents\GitHub\Sample-Applications\Delegate Example\Delegate Example\obj\Debug\Delegate Example.pdb

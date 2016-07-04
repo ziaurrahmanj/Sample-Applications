@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="Notifications" EntityType="Model1.Store.Notifications" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="NotifTypes" EntityType="Model1.Store.NotifTypes" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Notifications">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Message" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="NotifType" Type="int" Nullable="false" />
+    <Property Name="TimeStamp" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NotifTypes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+  </EntityType>
+</Schema>
